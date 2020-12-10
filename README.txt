@@ -1,6 +1,6 @@
 Repositório para documentar alguns comandos do SQL para futuras consultas.
 Modificando alguns exemplos encontrados em referências para praticar e gerar entendimento.
-Ainda incompleto e sujeito a erros, vou atualizando conforme aprendo e penso em novos exemplos.
+Vou atualizando conforme aprendo e penso em novos exemplos.
 
 SQL é uma linguagem padrão para acessar e manipular bancos de dados.
 
